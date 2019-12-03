@@ -10,7 +10,7 @@ public class AprenderCucumber {
 	}
 
 	@Quando("^executá-lo$")
-	public void executá_lo() throws Throwable {
+	public void executá_lo()  throws Throwable {
 	    
 	}
 
@@ -18,6 +18,5 @@ public class AprenderCucumber {
 	public void a_especificação_deve_finalizar_com_sucesso() throws Throwable {
 	    
 	}
-
 
 }

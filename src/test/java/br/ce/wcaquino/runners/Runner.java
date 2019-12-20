@@ -27,7 +27,6 @@ import org.junit.BeforeClass;
 public class Runner {
 	
 	
-	
 	@BeforeClass
 	
 	public static void reset() {

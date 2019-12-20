@@ -1,3 +1,5 @@
 eclipse.preferences.version=1
-encoding//src/test/java/AprenderCucumber.java=UTF-8
-encoding//src/test/java/aprender_cucumber.feature=UTF-8
+encoding//src/test/java/br/ce/wcaquino/steps/AprenderCucumberSteps.java=UTF-8
+encoding//src/test/resources/features/alugar_filme.feature=UTF-8
+encoding//src/test/resources/features/aprender_cucumber.feature=UTF-8
+encoding//src/test/resources/features/inserir_conta.feature=UTF-8
